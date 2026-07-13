@@ -96,7 +96,9 @@ Threat Level: UNKNOWN
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sylhetyhackvenger&theme=matrix&no-frame=true&margin-w=15&column=4"/>
+<p align="center">
+  <img src="https://i.giphy.com/media/WXB88TeARFVvi/giphy.gif" alt="Funny Cat GIF" width="500">
+</p>
 
 </p>
 
