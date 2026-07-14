@@ -92,7 +92,7 @@ Threat Level: UNKNOWN
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# 🏆 FORGET ABOUT ACHIEVEMENTS JUST SWAG
 
 <p align="center">
 
