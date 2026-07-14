@@ -29,7 +29,10 @@ Focus:
   - OSINT Intelligence
   - Ethical Hacking Labs
   - Capture The Flag
-
+Nature:
+  - Defensive
+  - Offensive
+  - Gray Hat Hacker
 Environment:
   - Kali Linux
   - Termux
