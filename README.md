@@ -38,7 +38,10 @@ Environment:
   - Termux
   - Linux Servers
   - Cloud Infrastructure
-
+Rank:
+  - 1st Gray Hat Hacker Competition Winner (CTF BD REGION)
+  - 1st Python Program Contest Winner (SYLHET)
+  - 3rd C Program Contest Winner (SYLHET)
 Status: ONLINE
 Threat Level: UNKNOWN
 ```
