@@ -1,3 +1,65 @@
+<div align="center">
+
+<a href="https://github.com/sylhetyhackvenger">
+  <img src="portfolio.svg" width="100%" alt="SYLHETYHACKVENGER — THE-ERROR808 Portfolio" />
+</a>
+
+<br/>
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=sylhetyhackvenger&color=00f0ff&style=flat-square&label=PROFILE+VIEWS)
+
+
+
+
+![Followers](https://img.shields.io/github/followers/sylhetyhackvenger?color=00ff9c&style=flat-square&label=FOLLOWERS)
+
+
+
+
+![Last Commit](https://img.shields.io/github/last-commit/sylhetyhackvenger/sylhetyhackvenger?color=ff00e5&style=flat-square&label=LAST+ACTIVITY)
+
+
+
+</div>
+
+---
+
+<div align="center">
+
+### `root@THE-ERROR808:~# ./tech_stack --list`
+
+
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=00f0ff)
+
+
+
+
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnubash&logoColor=00ff9c)
+
+
+
+
+![Linux](https://img.shields.io/badge/Linux_Servers-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffd24a)
+
+
+
+
+![Cloud](https://img.shields.io/badge/Cloud_Infra-00f0ff?style=for-the-badge&logo=icloud&logoColor=black)
+
+
+
+</div>
+
+--
+
 <!-- ================= HERO BANNER ================= -->
 
 <p align="center">
