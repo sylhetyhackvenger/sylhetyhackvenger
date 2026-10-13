@@ -15,7 +15,9 @@
 <!-- ================= FOOTER ================= -->
 
 
-
+<p align="center">
+  <img src="identity.svg" alt="IDENTITY" width="1000"/>
+</p>
 ## 👨‍💻 IDENTITY
 
 ```yaml
