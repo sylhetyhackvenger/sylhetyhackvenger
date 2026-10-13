@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/sylhetyhackvenger">
-  <img src="portfolio.svg" width="100%" alt="SYLHETYHACKVENGER — THE-ERROR808 Portfolio" />
+  <img src="identity.svg" width="100%" alt="SYLHETYHACKVENGER — THE-ERROR808 Portfolio" />
 </a>
 
 <br/>
@@ -58,8 +58,43 @@
 
 </div>
 
---
+---
 
+<div align="center">
+
+### `./stats --live --github`
+
+<img src="https://github-readme-stats.vercel.app/api?username=sylhetyhackvenger&show_icons=true&theme=dark&hide_border=true&bg_color=030a14&title_color=00f0ff&icon_color=ff00e5&text_color=cdeff5" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sylhetyhackvenger&theme=dark&hide_border=true&background=030a14&ring=00f0ff&fire=ff2a55&currStreakLabel=00f0ff" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylhetyhackvenger&layout=compact&theme=dark&hide_border=true&bg_color=030a14&title_color=00f0ff&text_color=cdeff5" width="49%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `./contact --open-channel`
+
+[
+
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+](https://instagram.com/sylhetyhackvenger_)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00f0ff)
+
+](https://github.com/sylhetyhackvenger)
+
+<br/>
+
+<sub>Gray Hat Hacking for educational research purposes only.</sub>
+<br/>
+<sub>© THE-ERROR808 — Mission: Defend. Research. Explore. Repeat.</sub>
+
+</div>
 <!-- ================= HERO BANNER ================= -->
 
 <p align="center">
