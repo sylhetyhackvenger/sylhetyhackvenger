@@ -1,308 +1,128 @@
 <div align="center">
 
 <a href="https://github.com/sylhetyhackvenger">
-  <img src="identity.svg" width="100%" alt="SYLHETYHACKVENGER — THE-ERROR808 Portfolio" />
+  <img src="./identity.svg" width="100%" alt="SYLHETYHACKVENGER — THE-ERROR808 cyber identity banner" />
 </a>
 
 <br/>
 
+**INDEPENDENT CYBERSECURITY RESEARCH · DIGITAL RECONNAISSANCE · DEFENSIVE ENGINEERING**
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=sylhetyhackvenger&color=00f0ff&style=flat-square&label=PROFILE+VIEWS)
-
-
-
-
-![Followers](https://img.shields.io/github/followers/sylhetyhackvenger?color=00ff9c&style=flat-square&label=FOLLOWERS)
-
-
-
-
-![Last Commit](https://img.shields.io/github/last-commit/sylhetyhackvenger/sylhetyhackvenger?color=ff00e5&style=flat-square&label=LAST+ACTIVITY)
-
-
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sylhetyhackvenger&style=for-the-badge&color=00d9ff&label=PROFILE+SIGNALS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/sylhetyhackvenger?style=for-the-badge&color=7c3aed&label=FOLLOWERS" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/last-commit/sylhetyhackvenger/sylhetyhackvenger?style=for-the-badge&color=00b894&label=LAST+COMMIT" alt="Last commit" />
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+## `root@ERROR808:~$ whoami`
 
-### `root@THE-ERROR808:~# ./tech_stack --list`
+> **Alias:** SYLHETYHACKVENGER  
+> **Codename:** THE-ERROR808  
+> **Operating principle:** Understand the system. Test responsibly. Make it safer.
 
+I explore cybersecurity through hands-on labs, network auditing, open-source intelligence, and capture-the-flag challenges. This profile is my workbench for technical learning, experimentation, and security-focused development.
 
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=00f0ff)
-
-
-
-
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnubash&logoColor=00ff9c)
-
-
-
-
-![Linux](https://img.shields.io/badge/Linux_Servers-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffd24a)
-
-
-
-
-![Cloud](https://img.shields.io/badge/Cloud_Infra-00f0ff?style=for-the-badge&logo=icloud&logoColor=black)
-
-
-
-</div>
-
----
-
-<div align="center">
-
-### `./stats --live --github`
-
-<img src="https://github-readme-stats.vercel.app/api?username=sylhetyhackvenger&show_icons=true&theme=dark&hide_border=true&bg_color=030a14&title_color=00f0ff&icon_color=ff00e5&text_color=cdeff5" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sylhetyhackvenger&theme=dark&hide_border=true&background=030a14&ring=00f0ff&fire=ff2a55&currStreakLabel=00f0ff" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylhetyhackvenger&layout=compact&theme=dark&hide_border=true&bg_color=030a14&title_color=00f0ff&text_color=cdeff5" width="49%" />
-
-</div>
-
----
-
-<div align="center">
-
-### `./contact --open-channel`
-
-[
-
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
-](https://instagram.com/sylhetyhackvenger_)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00f0ff)
-
-](https://github.com/sylhetyhackvenger)
-
-<br/>
-
-<sub>Gray Hat Hacking for educational research purposes only.</sub>
-<br/>
-<sub>© THE-ERROR808 — Mission: Defend. Research. Explore. Repeat.</sub>
-
-</div>
-<!-- ================= HERO BANNER ================= -->
-
-<p align="center">
-  <img src="./banner.jpg" alt="SYLHETYHACKVENGER Banner" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Teko&size=42&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=1400&lines=SYSTEM+BOOTING...;ACCESS+GRANTED;DIGITAL+RECON+ACTIVE;NETWORK+AUDITING+ONLINE;WELCOME+TO+THE+CYBER+ZONE"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ohONS2y8GTDoI/giphy.gif" width="100%" alt="Matrix Rain">
-</p>
-
-<!-- ================= FOOTER ================= -->
-
-## 👨‍💻 IDENTITY
-
-```yaml
-Alias: SYLHETYHACKVENGER
-Codename: THE-ERROR808
-
-Focus:
-  - Cybersecurity Research
-  - Network Auditing
-  - Digital Reconnaissance
-  - OSINT Intelligence
-  - Ethical Hacking Labs
-  - Capture The Flag
-Nature:
-  - Defensive
-  - Offensive
-  - Gray Hat Hacker
-Environment:
-  - Kali Linux
-  - Termux
-  - Linux Servers
-  - Cloud Infrastructure
-Rank:
-  - 1st Gray Hat Hacker Competition Winner (CTF BD REGION)
-  - 1st Python Program Contest Winner (SYLHET)
-  - 3rd C Program Contest Winner (SYLHET)
-Status: ONLINE
-Threat Level: UNKNOWN
+```text
+┌─ OPERATOR PROFILE ────────────────────────────────────────────┐
+│  FOCUS     Network Security · OSINT · Security Research       │
+│  PRACTICE  Authorized Testing · CTF · Ethical Hacking Labs     │
+│  SYSTEMS   Linux · Kali Linux · Termux · Cloud Infrastructure  │
+│  DIRECTIVE Defend / Research / Explore / Repeat                │
+└───────────────────────────────────────────────────────────────┘
 ```
 
----
+## `./capabilities --index`
 
-## ⚡ LIVE STATUS
+<div align="center">
 
-<p align="center">
+| DOMAIN | OPERATING FOCUS |
+|:--|:--|
+| **Security Research** | Lab-based testing, vulnerability analysis, defensive learning |
+| **Network Auditing** | Network visibility, service assessment, attack-surface awareness |
+| **OSINT** | Public-source research and digital footprint analysis |
+| **CTF & Labs** | Practical problem-solving and security skill development |
+| **Automation** | Python tooling, shell workflows, repeatable technical tasks |
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sylhetyhackvenger&theme=react-dark&hide_border=true&area=true"/>
+</div>
 
-</p>
+## `./environment --stack`
 
----
+<div align="center">
 
-## 🌐 CONNECT
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=00BFFF)
+![Termux](https://img.shields.io/badge/Termux-111827?style=for-the-badge&logo=gnubash&logoColor=00FF9C)
+![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Go](https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Rust](https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![Nginx](https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx&logoColor=009639)
 
-<p align="center">
+</div>
 
+## `./telemetry --github`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sylhetyhackvenger&show_icons=true&hide_border=true&bg_color=050b14&title_color=00eaff&icon_color=a855f7&text_color=d8e7f2&ring_color=00eaff" alt="GitHub account statistics" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sylhetyhackvenger&hide_border=true&background=050b14&ring=00eaff&fire=ff4d8d&currStreakLabel=00eaff&sideLabels=d8e7f2&dates=7891a8" alt="GitHub contribution streak" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylhetyhackvenger&layout=compact&hide_border=true&bg_color=050b14&title_color=00eaff&text_color=d8e7f2" alt="Most used public repository languages" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sylhetyhackvenger&bg_color=050b14&color=d8e7f2&line=00eaff&point=a855f7&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+<sub>Telemetry is provided by third-party services and may be delayed, unavailable, or affected by their rate limits. Language statistics reflect public repository contents, not necessarily overall skill level.</sub>
+
+## `./honors --verified-by-operator`
+
+- 🥇 **1st place** — Gray Hat Hacker Competition, CTF BD Region
+- 🥇 **1st place** — Python Programming Contest, Sylhet
+- 🥉 **3rd place** — C Programming Contest, Sylhet
+
+## `./connect --secure-channel`
+
+<div align="center">
+
+<a href="https://github.com/sylhetyhackvenger">
+  <img src="https://img.shields.io/badge/GitHub-Explore_Projects-0b1220?style=for-the-badge&logo=github&logoColor=00eaff" alt="Explore GitHub projects" />
+</a>
 <a href="https://instagram.com/sylhetyhackvenger_">
-<img src="https://img.shields.io/badge/INSTAGRAM-CYBERPUNK-ff0080?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-Connect-0b1220?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram profile" />
 </a>
 
-</p>
+</div>
 
----
-
-# 🧠 NEURAL TECH STACK
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,kali,bash,python,go,rust,c,php,nodejs,docker,aws,gcp,firebase,cloudflare,mysql,sqlite,git,github,nginx,apache,vscode"/>
-
-</p>
-
----
-
-# 🔥 SYSTEM ANALYTICS
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sylhetyhackvenger&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sylhetyhackvenger&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylhetyhackvenger&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 FORGET ABOUT THE ACHIEVEMENTS JUST SWAG
-
-<p align="center">
-
-<p align="center">
-  <img src="https://i.giphy.com/media/WXB88TeARFVvi/giphy.gif" alt="Funny Cat GIF" width="500">
-</p>
-
-</p>
-
----
-
-<!-- ================= VISITOR SCANNER ================= -->
-
-<h2 align="center">🛰 VISITOR SCANNER</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="280" alt="Radar Scanner"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=850&lines=SATELLITE+LINK+ESTABLISHED...;SCANNING+INCOMING+TARGETS...;DIGITAL+FOOTPRINT+DETECTED...;VISITOR+TRACKING+ONLINE...;WELCOME+TO+SYLHETYHACKVENGER"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sylhetyhackvenger&label=TARGETS+SCANNED&color=00ffff&style=for-the-badge"/>
-</p>
-
-<p align="center">
-══════════════════════════════════════════
-<br>
-⚡ THREAT ANALYSIS ACTIVE • RECON ONLINE • CYBER GRID SECURED ⚡
-<br>
-══════════════════════════════════════════
-</p>
----
-
-# ☄️ STAY WITH ME
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%" alt="Matrix Terminal">
-</p>
-
-# 🎭 SYSTEM TERMINAL
-```bash
-root@sylhetyhackvenger:~#
-
-> Reconnaissance Active
-> Monitoring Attack Surface
-> Tracking Vulnerabilities
-> Learning Never Stops
-
-Mission:
-Defend.
-Research.
-Explore.
-Repeat.
-```
-
----
-```ansi
-████████████████████████████████████████████
-
- SYSTEM STATUS  : ONLINE
- THREAT LEVEL   : MONITORED
- NETWORK STATE  : STABLE
- RECON MODE     : ACTIVE
-
-████████████████████████████████████████████
-```
-
----
+## `root@ERROR808:~$ mission --execute`
 
 ```diff
-+ ACCESS GRANTED
-+ SESSION LOGGED
-+ CYBER GRID OPERATIONAL
++ ACCESS: AUTHORIZED ENVIRONMENTS ONLY
++ METHOD: EVIDENCE-DRIVEN RESEARCH
++ PRIORITY: DEFENSE, PRIVACY, RESPONSIBLE DISCLOSURE
++ STATUS: ALWAYS LEARNING
 ```
 
-<p align="center">
+<div align="center">
 
-### 「 SYLHETYHACKVENGER 」
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=SYSTEM+BOOTING...;ACCESS+GRANTED;DIGITAL+RECON+ACTIVE;NETWORK+AUDITING+ONLINE;OSINT+%7C+CTF+%7C+CYBERSECURITY;WELCOME+TO+THE+CYBER+ZONE"/>
-</p>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
 
-<h1 align="center">
-⚡ SYLHETYHACKVENGER (THE-ERROR808) ⚡
-</h1>
+**SYLHETYHACKVENGER · THE-ERROR808**
 
-<p align="center">
-Rooted Execution • Network Auditing • Digital Recon • Termux & Kali Linux Powered Lab Test
-</p>
+<sub>Defend. Research. Explore. Repeat.</sub>
 
----
-
-<!-- YOUR README CONTENT HERE -->
-
-```diff
-+ ENTER THE CYBER ZONE
-+ STAY CURIOUS
-+ STAY ETHICAL
-+ KEEP LEARNING
-```
-
-</p>
+</div>
