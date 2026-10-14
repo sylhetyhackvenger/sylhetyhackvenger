@@ -34,48 +34,11 @@
   />
 </div>
 
-## `01 / OPERATOR IDENTIFICATION`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  HANDLE       SYLHETYHACKVENGER                              ║
-║  CODENAME     THE-ERROR808                                   ║
-║  DOMAIN       CYBERSECURITY · OSINT · NETWORK RESEARCH       ║
-║  ENVIRONMENT  LINUX · KALI · TERMUX · CLOUD                  ║
-║  DIRECTIVE    DEFEND / RESEARCH / EXPLORE / REPEAT           ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 I investigate how systems behave, how digital exposure occurs, and how security can be improved. My workbench is built around practical labs, network auditing, open-source intelligence, CTF challenges, and automation.
 
-> **Operating principle:** Think like an adversary. Validate with evidence. Build for defense. Test only where authorized.
 
-## `02 / LIVE SIMULATION FEED`
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="100%" alt="Abstract cinematic digital terminal animation"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=500&color=9D7BFF&center=true&vCenter=true&width=900&lines=%3E%3E+SIMULATION%3A+PACKET+FLOW+VISUALIZED;%3E%3E+MODULE%3A+SURFACE+MAPPING+STUDY;%3E%3E+MODE%3A+AUTHORIZED+LAB+ONLY;%3E%3E+STATUS%3A+LEARNING+NEVER+STOPS" alt="Animated simulated security console"/>
-
-</div>
-
-<sub>Visuals are atmospheric animations, not a real attack feed, live network monitor, or evidence of active scanning. GitHub README files cannot run custom JavaScript, video backgrounds, or arbitrary full-page animations; external GIFs and SVGs provide the supported animated effect.</sub>
-
-## `03 / RESEARCH CAPABILITIES`
-
-<div align="center">
-
-| MODULE | FOCUS |
-|:--|:--|
-| `01` **Security Research** | Lab-based testing, vulnerability analysis, security fundamentals |
-| `02` **Network Auditing** | Service assessment, network visibility, attack-surface awareness |
-| `03` **OSINT** | Public-source research, digital footprint analysis |
-| `04` **CTF & Labs** | Structured challenges, exploitation concepts in authorized environments |
-| `05` **Automation** | Python utilities, shell workflows, repeatable technical tasks |
-| `06` **Defensive Practice** | Risk awareness, hardening concepts, responsible disclosure |
-
-</div>
 
 ## `04 / TECH ARSENAL`
 
