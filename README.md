@@ -82,5 +82,30 @@ I investigate how systems behave, how digital exposure occurs, and how security 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=900&color=FF0000&center=true&vCenter=true&width=800&lines=SYLHETYHACKVENGER;THE-ERROR808;DEFEND.+RESEARCH.+EXPLORE.+REPEAT." alt="Animated cyber-ghost sign-off"/>
 
 
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&width=900&lines=%3C%2F+SECURE+BY+DESIGN+%7C+DRIVEN+BY+CURIOSITY+%2F%3E" alt="Cybersecurity footer"/>
+
+<br/>
+
+<sub>
+  <code>[ CYBERSECURITY ]</code>
+  <b>IS A DISCIPLINE.</b>
+  <code>[ CURIOSITY ]</code>
+  <b>IS THE ENGINE.</b>
+</sub>
+
+<br/>
+
+<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
+
+<br/>
+
+<sub>
+  <code>SYS.STATUS: ACTIVE</code> •
+  <code>MODE: CONTINUOUS LEARNING</code> •
+  <code>ACCESS: AUTHORIZED</code>
+</sub>
+
+</div>
 
