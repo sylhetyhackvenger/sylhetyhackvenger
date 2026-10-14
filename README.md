@@ -1,13 +1,4 @@
-<div align="center">
 
-<a href="https://github.com/sylhetyhackvenger">
-  <img src="./identity.svg" width="100%" alt="SYLHETYHACKVENGER — THE-ERROR808 cyber-ghost identity" />
-</a>
-
-<p>
-  <strong>INDEPENDENT CYBERSECURITY RESEARCH</strong><br/>
-  <sub>NETWORK INTELLIGENCE · DIGITAL RECON · DEFENSIVE ENGINEERING</sub>
-</p>
 
 <img src="https://komarev.com/ghpvc/?username=sylhetyhackvenger&style=for-the-badge&color=00eaff&label=SIGNALS+OBSERVED" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/sylhetyhackvenger?style=for-the-badge&color=7c3aed&label=OPERATORS+FOLLOWING" alt="GitHub followers"/>
