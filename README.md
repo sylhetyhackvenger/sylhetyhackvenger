@@ -87,20 +87,15 @@ I investigate how systems behave, how digital exposure occurs, and how security 
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution graph snake"/>
 
+
+
+<div align="center">
+  <img src="./directive.svg"
+       width="100%"
+       alt="THE-ERROR808 Security Research Directives"/>
 </div>
 
 
-
-```diff
-+ AUTHORIZATION FIRST
-+ RESEARCH WITH PURPOSE
-+ VERIFY BEFORE YOU CLAIM
-+ RESPECT PRIVACY
-+ DISCLOSE RESPONSIBLY
-+ KEEP BUILDING
-```
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=900&color=00EAFF&center=true&vCenter=true&width=800&lines=SYLHETYHACKVENGER;THE-ERROR808;DEFEND.+RESEARCH.+EXPLORE.+REPEAT." alt="Animated cyber-ghost sign-off"/>
 
