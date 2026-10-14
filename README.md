@@ -56,7 +56,12 @@ I investigate how systems behave, how digital exposure occurs, and how security 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=sylhetyhackvenger&show_icons=true&hide_border=true&bg_color=050812&title_color=00Eaff&icon_color=A855F7&text_color=DCEBFA&rank_icon=github" alt="GitHub account statistics"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sylhetyhackvenger&hide_border=true&background=050812&ring=00EAFF&fire=FF4D8D&currStreakLabel=00EAFF&sideLabels=DCEBFA&dates=8295AE" alt="GitHub contribution streak"/>
+<!-- GitHub Contribution Streak -->
+<img
+  height="180"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=sylhetyhackvenger&hide_border=true&background=050812&ring=00EAFF&fire=FF4D8D&currStreakLabel=39FF14&currStreakNum=39FF14&sideLabels=DCEBFA&sideNums=39FF14&dates=8295AE&stroke=39FF14"
+  alt="GitHub contribution streak"
+/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylhetyhackvenger&layout=compact&hide_border=true&bg_color=050812&title_color=00EAFF&text_color=DCEBFA" alt="Public repository language statistics"/>
 
