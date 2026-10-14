@@ -1,4 +1,8 @@
-
+<div align="center">
+  <img src="./identity.svg"
+       width="100%"
+       alt="Intro"/>
+</div>
 
 
 ---
