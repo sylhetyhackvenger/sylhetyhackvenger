@@ -1,0 +1,384 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="6570" viewBox="0 0 1600 6570" role="img" aria-labelledby="title desc" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTphM2MwOTQ3Yy0zMzJlLTQ2NjUtOWIzNy1jZjZhNTU3MzcxMDIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaIoxUQ97VZWZ6/goLhMSJvAAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozMmI0MTE1NS1iYTAwLTQ1NDUtOTIyOC0yMmMxYmU3OGUwOGVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo+8wkiXx2Cx2/gDXBvpN0RgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg4RZUCwBqFe1DKt/EV7y9LnkzMCRb83zTDrzXO0JqeXmkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaOzWgDCeuS6GPu4RnWfZMDEAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCLCF7iqfOVGSCC0ihL30G4X3GhosQssE9WQjv5+tTRP2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjCZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmEzYzA5NDdjLTMzMmUtNDY2NS05YjM3LWNmNmE1NTczNzEwMi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjdiMDFhY2ZmLTUyOTQtNDg5YS05NDY1LWMwMTA5ZTg0NzVlYXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDhFlQLAGoV7UMq38RXvL0ueTMwJFvzfNMOvNc7Qmp5eaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggiS5UbDerbmNG/b6s7lJ/bZ0Ed1n4X9YIr4tmgpbeWPGiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggDIRywcbHZ9u+QoOiBhX3WSxnooVoKmFpAMA1Wu9NLEx0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQGbI9t3RndrIfCtJkIeDzqOfjdvDCYcWc6rObKK+lMpQKPBJpcp4kZIcGIYPJ2hU77eW0ZJHkaKFrT/TmVLFwKY=</c2pa:manifest></metadata>
+  <title id="title">Cybersecurity From Zero: a beginner roadmap</title>
+  <desc id="desc">A cyberpunk-styled beginner guide to starting cybersecurity: ground rules, the CIA triad, an 8-step roadmap, a 30-day starter plan, a starter toolkit and common career paths.</desc>
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#030711"/><stop offset=".45" stop-color="#071326"/><stop offset="1" stop-color="#12071f"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102b43" stop-opacity=".94"/><stop offset=".5" stop-color="#091522" stop-opacity=".91"/><stop offset="1" stop-color="#24153a" stop-opacity=".92"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b4ffff"/><stop offset=".38" stop-color="#00eaff"/><stop offset="1" stop-color="#4779ff"/>
+    </linearGradient>
+    <linearGradient id="magenta" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff4ccf"/><stop offset="1" stop-color="#9b5cff"/>
+    </linearGradient>
+    <linearGradient id="coat" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#182c41"/><stop offset=".48" stop-color="#07101d"/><stop offset="1" stop-color="#251237"/>
+    </linearGradient>
+    <radialGradient id="cityGlow">
+      <stop offset="0" stop-color="#00eaff" stop-opacity=".28"/><stop offset=".52" stop-color="#7d35ff" stop-opacity=".1"/><stop offset="1" stop-color="#030711" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="sun">
+      <stop offset="0" stop-color="#ff4ccf" stop-opacity=".9"/><stop offset=".35" stop-color="#7c4dff" stop-opacity=".38"/><stop offset="1" stop-color="#7c4dff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="microgrid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#6cefff" stroke-opacity=".07" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1.2" fill="#6cefff" fill-opacity=".22"/>
+    </pattern>
+    <pattern id="scanlines" width="4" height="6" patternUnits="userSpaceOnUse">
+      <path d="M0 5.5H4" stroke="#a9faff" stroke-opacity=".07" stroke-width=".7"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="bloom" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="20"/>
+    </filter>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.5"/>
+    </filter>
+    <clipPath id="frame"><rect width="1600" height="6570" rx="28"/></clipPath>
+    <g id="rain">
+      <path d="M0 0l-15 54" stroke="#71f9ff" stroke-width="1.4" stroke-opacity=".7"/>
+      <path d="M18 42l-9 34" stroke="#ba73ff" stroke-width="1" stroke-opacity=".55"/>
+      <path d="M-32 68l-12 42" stroke="#71f9ff" stroke-width="1" stroke-opacity=".5"/>
+    </g>
+    <g id="windowStrip">
+      <path d="M0 0h7v13H0zM15 0h7v13h-7zM30 0h7v13h-7zM45 0h7v13h-7z" fill="#66edff" opacity=".62"/>
+    </g>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1600" height="6570" fill="url(#night)"/>
+    <rect width="1600" height="6570" fill="url(#microgrid)"/>
+    <ellipse cx="1030" cy="650" rx="780" ry="700" fill="url(#cityGlow)"/>
+    <ellipse cx="1240" cy="470" rx="360" ry="360" fill="url(#sun)"/>
+
+    <!-- Distant cyberpunk skyline -->
+    <g opacity=".78">
+      <path d="M0 720V560H72V480H124V604H178V420H225V570H272V510H326V655H370V445H430V710H0Z" fill="#08172b" stroke="#17425b" stroke-width="2"/>
+      <path d="M390 720V490H430V385H486V490H515V325H567V455H602V530H644V405H705V720Z" fill="#0a1b30" stroke="#20506a" stroke-width="2"/>
+      <path d="M720 720V520H762V390H800V455H832V300H895V430H930V510H980V360H1020V720Z" fill="#0b1b31" stroke="#214765" stroke-width="2"/>
+      <path d="M1050 720V470H1095V350H1140V465H1180V285H1230V460H1275V380H1320V515H1370V420H1410V600H1460V500H1510V570H1600V720Z" fill="#0a172b" stroke="#23445f" stroke-width="2"/>
+      <path d="M1180 285v-55h50v55M1205 230v-65" fill="none" stroke="#ff54dc" stroke-width="3" filter="url(#glow)"/>
+      <path d="M832 300v-70h63v70M864 230v-44" fill="none" stroke="#00eaff" stroke-width="3" filter="url(#glow)"/>
+      <g opacity=".55">
+        <use href="#windowStrip" x="22" y="590"/><use href="#windowStrip" x="22" y="620"/>
+        <use href="#windowStrip" x="190" y="460"/><use href="#windowStrip" x="190" y="490"/>
+        <use href="#windowStrip" x="450" y="420"/><use href="#windowStrip" x="450" y="450"/>
+        <use href="#windowStrip" x="530" y="360"/><use href="#windowStrip" x="530" y="390"/>
+        <use href="#windowStrip" x="845" y="340"/><use href="#windowStrip" x="845" y="370"/>
+        <use href="#windowStrip" x="995" y="405"/><use href="#windowStrip" x="995" y="435"/>
+        <use href="#windowStrip" x="1190" y="330"/><use href="#windowStrip" x="1190" y="360"/>
+        <use href="#windowStrip" x="1390" y="465"/><use href="#windowStrip" x="1390" y="495"/>
+      </g>
+    </g>
+
+    <!-- Rain layers, drifting at different speeds -->
+    <g opacity=".65">
+      <g>
+        <use href="#rain" x="70" y="-80"/><use href="#rain" x="170" y="110"/><use href="#rain" x="260" y="-30"/>
+        <use href="#rain" x="350" y="180"/><use href="#rain" x="450" y="-110"/><use href="#rain" x="560" y="80"/>
+        <use href="#rain" x="650" y="-60"/><use href="#rain" x="760" y="140"/><use href="#rain" x="900" y="-130"/>
+        <use href="#rain" x="1010" y="20"/><use href="#rain" x="1110" y="-40"/><use href="#rain" x="1210" y="170"/>
+        <use href="#rain" x="1330" y="-90"/><use href="#rain" x="1450" y="90"/><use href="#rain" x="1540" y="-10"/>
+        <animateTransform attributeName="transform" type="translate" values="0 -180;0 240" dur="4s" repeatCount="indefinite"/>
+      </g>
+      <g opacity=".45" transform="translate(0 200)">
+        <use href="#rain" x="120" y="40"/><use href="#rain" x="310" y="-120"/><use href="#rain" x="500" y="100"/>
+        <use href="#rain" x="700" y="-90"/><use href="#rain" x="940" y="160"/><use href="#rain" x="1160" y="-140"/>
+        <use href="#rain" x="1390" y="70"/><use href="#rain" x="1530" y="-50"/>
+        <animateTransform attributeName="transform" type="translate" values="0 -100;0 280" dur="6s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <!-- Atmospheric transmission beams -->
+    <path d="M-80 680L760 320L850 320L10 720Z" fill="#00eaff" opacity=".035"/>
+    <path d="M1020 240L1100 240L690 780L650 780Z" fill="#c04cff" opacity=".06"/>
+    <path d="M0 690H1600" stroke="#00eaff" stroke-opacity=".45" stroke-width="2" filter="url(#glow)"/>
+
+    <!-- Top identity HUD -->
+    <g font-family="monospace">
+      <path d="M58 58H350L378 86H550M1542 58H1260L1232 86H1050" fill="none" stroke="url(#cyan)" stroke-width="2" opacity=".9"/>
+      <circle cx="58" cy="58" r="4" fill="#00eaff" filter="url(#glow)"/>
+      <circle cx="1542" cy="58" r="4" fill="#ff4ccf" filter="url(#glow)"/>
+      <text x="60" y="118" font-size="26" letter-spacing="4" fill="#80faff">FREE BEGINNER GUIDE</text>
+      <text x="1540" y="118" text-anchor="end" font-size="22" letter-spacing="2" fill="#c4b0fb">START HERE / LEVEL 00</text>
+      <text x="60" y="210" font-size="84" font-weight="800" letter-spacing="-1" fill="#ffffff">CYBERSECURITY FROM ZERO</text>
+      <text x="64" y="278" font-size="44" font-weight="700" letter-spacing="9" fill="url(#cyan)" filter="url(#glow)">A BEGINNER ROADMAP</text>
+      <text x="64" y="334" font-size="28" letter-spacing="4" fill="#c9d9e8">LEARN / PRACTICE / DEFEND</text>
+    </g>
+
+    <!-- Hooded figure -->
+    <g transform="translate(810 660)">
+      <ellipse cx="0" cy="20" rx="350" ry="300" fill="#00eaff" opacity=".07" filter="url(#bloom)"/>
+      <circle cx="0" cy="0" r="258" fill="none" stroke="#00eaff" stroke-opacity=".25" stroke-width="2"/>
+      <circle cx="0" cy="0" r="235" fill="none" stroke="#a855f7" stroke-opacity=".7" stroke-width="2" stroke-dasharray="2 12">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="46s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="0" cy="0" r="212" fill="none" stroke="#00eaff" stroke-opacity=".55" stroke-width="3" stroke-dasharray="62 18 4 18">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="31s" repeatCount="indefinite"/>
+      </circle>
+      <path d="M-190 235L-176 54Q-175-98-96-172Q0-245 96-172Q175-98 176 54L190 235L120 200L85 250L0 216L-85 250L-120 200Z" fill="url(#coat)" stroke="url(#cyan)" stroke-width="4" filter="url(#glow)"/>
+      <path d="M-142 60Q-134-83-70-130Q0-173 70-130Q134-83 142 60L105 126L0 101L-105 126Z" fill="#020710" stroke="#2e6c85" stroke-width="2"/>
+      <path d="M-124 10L-32 39L-81 70Z" fill="#6efaff" filter="url(#glow)">
+        <animate attributeName="opacity" values=".45;1;.45" dur="2.6s" repeatCount="indefinite"/>
+      </path>
+      <path d="M124 10L32 39L81 70Z" fill="#c084fc" filter="url(#glow)">
+        <animate attributeName="opacity" values="1;.4;1" dur="2.6s" repeatCount="indefinite"/>
+      </path>
+      <path d="M-55 151L0 168L55 151" fill="none" stroke="#00eaff" stroke-width="4" stroke-linecap="round"/>
+      <path d="M-151 40l-43 24m345-24l43 24M-105 179l-34 40m278-40l34 40" fill="none" stroke="#00eaff" stroke-width="3"/>
+      <path d="M-2-230v-30M-2 240v30M-240 0h-30M240 0h30" stroke="#ff4ccf" stroke-width="3"/>
+    </g>
+
+    <!-- Floating drones / light trails -->
+    <g filter="url(#glow)">
+      <path d="M80 440h130l20-8h90" fill="none" stroke="#00eaff" stroke-width="2"/>
+      <circle cx="220" cy="432" r="3" fill="#00eaff"/>
+      <path d="M1240 500h120l20 8h150" fill="none" stroke="#ff4ccf" stroke-width="2"/>
+      <circle cx="1360" cy="508" r="3" fill="#ff4ccf"/>
+      <g transform="translate(1240 370)">
+        <path d="M-26 0L0-9L28 0L0 9Z" fill="#101f35" stroke="#75faff" stroke-width="2"/>
+        <circle cx="-28" cy="0" r="3" fill="#00eaff"/><circle cx="30" cy="0" r="3" fill="#ff4ccf"/>
+        <animateTransform attributeName="transform" type="translate" values="1240 370;1190 390;1240 370" dur="7s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <g transform="translate(0 1197.5) scale(1 0.55)">
+    <!-- City foreground / wet reflective road -->
+    <path d="M0 1240L360 1110H1240L1600 1240V1510H0Z" fill="#050a14" stroke="#14384e" stroke-width="2"/>
+    <path d="M0 1270L440 1140M1600 1270L1160 1140" stroke="#00eaff" stroke-opacity=".5" stroke-width="3" filter="url(#glow)"/>
+    <path d="M800 1150L770 1510M760 1160L680 1510M840 1160L920 1510" stroke="#a855f7" stroke-opacity=".4" stroke-width="2"/>
+    <g opacity=".5" filter="url(#soft)">
+      <path d="M100 1320h250l-35 8H80Z" fill="#00eaff"/><path d="M1180 1340h260l40 8h-330Z" fill="#ff4ccf"/>
+      <path d="M420 1410h180l-25 5H390Z" fill="#00eaff"/><path d="M980 1450h260l-50 5H1000Z" fill="#a855f7"/>
+    </g>
+    <g opacity=".6">
+      <path d="M120 1250v90m25-95v120m1270-115v100m-25-110v75" stroke="#00eaff" stroke-width="2"/>
+      <path d="M240 1330h200m720 50h230" stroke="#ff4ccf" stroke-width="2"/>
+    </g>
+
+    </g>
+    <!-- Guide panels -->
+    <g font-family="monospace">
+      <g transform="translate(64 960)">
+        <path d="M0 0H1442L1472 30V364H0Z" fill="url(#glass)" stroke="#00eaff" stroke-opacity=".75" stroke-width="2"/><path d="M0 0H360" stroke="#00eaff" stroke-width="6" filter="url(#glow)"/>
+        <text x="32" y="58" fill="#8ffaff" font-size="30" letter-spacing="3" font-weight="bold">01 / BEFORE YOU START</text>
+        <path d="M32 80H1440" stroke="#3a6a8a"/>
+        <text x="32" y="134" fill="#a9c0d6" font-size="24">MINDSET</text><text x="300" y="134" fill="#ffffff" font-size="30">Curiosity + patience beat talent</text>
+        <text x="32" y="196" fill="#a9c0d6" font-size="24">RULE #1</text><text x="300" y="196" fill="#6effc7" font-size="30">Permission first, always</text>
+        <text x="32" y="258" fill="#a9c0d6" font-size="24">WHERE</text><text x="300" y="258" fill="#ffffff" font-size="30">Practice only in your own VMs</text>
+        <text x="32" y="320" fill="#a9c0d6" font-size="24">HABIT</text><text x="300" y="320" fill="#d6bfff" font-size="30">Take notes on everything you do</text>
+      </g>
+      <g transform="translate(64 1354)">
+        <path d="M0 0H1442L1472 30V414H0Z" fill="url(#glass)" stroke="#a855f7" stroke-opacity=".75" stroke-width="2"/><path d="M0 0H360" stroke="#a855f7" stroke-width="6" filter="url(#glow)"/>
+        <text x="32" y="58" fill="#d6bfff" font-size="30" letter-spacing="3" font-weight="bold">02 / THE BIG PICTURE: CIA TRIAD</text>
+        <path d="M32 80H1440" stroke="#5a4580"/>
+        <text x="32" y="134" fill="#a9c0d6" font-size="22">CONFIDENTIALITY</text><text x="380" y="134" fill="#6effc7" font-size="28">only the right people can read data</text>
+        <text x="32" y="196" fill="#a9c0d6" font-size="22">INTEGRITY</text><text x="380" y="196" fill="#ffffff" font-size="28">data stays accurate and unaltered</text>
+        <text x="32" y="258" fill="#a9c0d6" font-size="22">AVAILABILITY</text><text x="380" y="258" fill="#ff9ee9" font-size="28">systems work when people need them</text>
+        <text x="32" y="320" fill="#a9c0d6" font-size="22">LAYERS</text><text x="380" y="320" fill="#ffffff" font-size="28">stack controls, never trust just one</text>
+        <text x="32" y="384" fill="#d6bfff" font-size="24" letter-spacing="1">SECURITY = PEOPLE + PROCESS + TECHNOLOGY</text>
+      </g>
+    </g>
+
+    <!-- Roadmap, plan, toolkit, careers, footer -->
+    <g font-family="monospace">
+      <text x="64" y="2078" fill="#8ffaff" font-size="32" letter-spacing="4" font-weight="bold">03 / THE ROADMAP: 8 STEPS</text>
+      <text x="1536" y="2078" text-anchor="end" fill="#a9bdd2" font-size="20" letter-spacing="2">FOLLOW IN ORDER</text>
+      <g transform="translate(64 2112)">
+        <path d="M0 0H1442L1472 30V214H0Z" fill="url(#glass)" stroke="#00eaff" stroke-opacity=".8" stroke-width="2"/>
+        <path d="M0 0H8V214H0Z" fill="#00eaff"/>
+        <text x="34" y="116" fill="#00eaff" font-size="70" font-weight="bold" filter="url(#glow)">01</text>
+        <text x="170" y="56" fill="#ffffff" font-size="34" font-weight="bold">FUNDAMENTALS</text>
+        <text x="170" y="100" fill="#c9d9e8" font-size="25">How computers, operating systems and the internet work: IP, DNS,</text>
+        <text x="170" y="136" fill="#c9d9e8" font-size="25">HTTP/HTTPS and ports. Everything in security builds on this.</text>
+        <text x="170" y="186" fill="#00eaff" font-size="24" font-weight="bold" letter-spacing="1">PRACTICE ▸ TryHackMe "Pre Security" path</text>
+      </g>
+      <g transform="translate(64 2344)">
+        <path d="M0 0H1442L1472 30V214H0Z" fill="url(#glass)" stroke="#a855f7" stroke-opacity=".8" stroke-width="2"/>
+        <path d="M0 0H8V214H0Z" fill="#a855f7"/>
+        <text x="34" y="116" fill="#a855f7" font-size="70" font-weight="bold" filter="url(#glow)">02</text>
+        <text x="170" y="56" fill="#ffffff" font-size="34" font-weight="bold">LINUX &amp; THE COMMAND LINE</text>
+        <text x="170" y="100" fill="#c9d9e8" font-size="25">Files, permissions, processes, pipes, grep and ssh. Run Ubuntu or</text>
+        <text x="170" y="136" fill="#c9d9e8" font-size="25">Kali in a virtual machine and get comfortable in the terminal.</text>
+        <text x="170" y="186" fill="#cfa8ff" font-size="24" font-weight="bold" letter-spacing="1">PRACTICE ▸ OverTheWire "Bandit" wargame</text>
+      </g>
+      <g transform="translate(64 2576)">
+        <path d="M0 0H1442L1472 30V214H0Z" fill="url(#glass)" stroke="#00eaff" stroke-opacity=".8" stroke-width="2"/>
+        <path d="M0 0H8V214H0Z" fill="#00eaff"/>
+        <text x="34" y="116" fill="#00eaff" font-size="70" font-weight="bold" filter="url(#glow)">03</text>
+        <text x="170" y="56" fill="#ffffff" font-size="34" font-weight="bold">NETWORKING</text>
+        <text x="170" y="100" fill="#c9d9e8" font-size="25">IP addressing, subnets, the TCP handshake, DNS and firewalls.</text>
+        <text x="170" y="136" fill="#c9d9e8" font-size="25">Watch real traffic in Wireshark; use ping, traceroute and curl.</text>
+        <text x="170" y="186" fill="#00eaff" font-size="24" font-weight="bold" letter-spacing="1">PRACTICE ▸ Capture and read your own traffic</text>
+      </g>
+      <g transform="translate(64 2808)">
+        <path d="M0 0H1442L1472 30V214H0Z" fill="url(#glass)" stroke="#a855f7" stroke-opacity=".8" stroke-width="2"/>
+        <path d="M0 0H8V214H0Z" fill="#a855f7"/>
+        <text x="34" y="116" fill="#a855f7" font-size="70" font-weight="bold" filter="url(#glow)">04</text>
+        <text x="170" y="56" fill="#ffffff" font-size="34" font-weight="bold">PROGRAMMING</text>
+        <text x="170" y="100" fill="#c9d9e8" font-size="25">Start with Python, then Bash. Automate small jobs: a port checker,</text>
+        <text x="170" y="136" fill="#c9d9e8" font-size="25">a log parser, a file hasher. Pick up C and JavaScript later.</text>
+        <text x="170" y="186" fill="#cfa8ff" font-size="24" font-weight="bold" letter-spacing="1">PRACTICE ▸ Build one small tool every week</text>
+      </g>
+      <g transform="translate(64 3040)">
+        <path d="M0 0H1442L1472 30V214H0Z" fill="url(#glass)" stroke="#00eaff" stroke-opacity=".8" stroke-width="2"/>
+        <path d="M0 0H8V214H0Z" fill="#00eaff"/>
+        <text x="34" y="116" fill="#00eaff" font-size="70" font-weight="bold" filter="url(#glow)">05</text>
+        <text x="170" y="56" fill="#ffffff" font-size="34" font-weight="bold">SECURITY CORE</text>
+        <text x="170" y="100" fill="#c9d9e8" font-size="25">CIA triad, authentication, hashing vs encryption, phishing, SQL</text>
+        <text x="170" y="136" fill="#c9d9e8" font-size="25">injection, XSS, malware. Read OWASP Top 10 and MITRE ATT&amp;CK.</text>
+        <text x="170" y="186" fill="#00eaff" font-size="24" font-weight="bold" letter-spacing="1">PRACTICE ▸ PortSwigger Web Security Academy</text>
+      </g>
+      <g transform="translate(64 3272)">
+        <path d="M0 0H1442L1472 30V214H0Z" fill="url(#glass)" stroke="#a855f7" stroke-opacity=".8" stroke-width="2"/>
+        <path d="M0 0H8V214H0Z" fill="#a855f7"/>
+        <text x="34" y="116" fill="#a855f7" font-size="70" font-weight="bold" filter="url(#glow)">06</text>
+        <text x="170" y="56" fill="#ffffff" font-size="34" font-weight="bold">BUILD A HOME LAB</text>
+        <text x="170" y="100" fill="#c9d9e8" font-size="25">VirtualBox or VMware, a Kali VM and targets made to be broken</text>
+        <text x="170" y="136" fill="#c9d9e8" font-size="25">(DVWA, Juice Shop) on an isolated host-only network.</text>
+        <text x="170" y="186" fill="#cfa8ff" font-size="24" font-weight="bold" letter-spacing="1">PRACTICE ▸ Snapshot it, break it, restore it</text>
+      </g>
+      <g transform="translate(64 3504)">
+        <path d="M0 0H1442L1472 30V214H0Z" fill="url(#glass)" stroke="#00eaff" stroke-opacity=".8" stroke-width="2"/>
+        <path d="M0 0H8V214H0Z" fill="#00eaff"/>
+        <text x="34" y="116" fill="#00eaff" font-size="70" font-weight="bold" filter="url(#glow)">07</text>
+        <text x="170" y="56" fill="#ffffff" font-size="34" font-weight="bold">PRACTICE LEGALLY</text>
+        <text x="170" y="100" fill="#c9d9e8" font-size="25">CTF games and guided labs teach faster than reading. Start easy,</text>
+        <text x="170" y="136" fill="#c9d9e8" font-size="25">read other people's write-ups, then redo them yourself.</text>
+        <text x="170" y="186" fill="#00eaff" font-size="24" font-weight="bold" letter-spacing="1">PRACTICE ▸ picoCTF / TryHackMe / Hack The Box</text>
+      </g>
+      <g transform="translate(64 3736)">
+        <path d="M0 0H1442L1472 30V214H0Z" fill="url(#glass)" stroke="#a855f7" stroke-opacity=".8" stroke-width="2"/>
+        <path d="M0 0H8V214H0Z" fill="#a855f7"/>
+        <text x="34" y="116" fill="#a855f7" font-size="70" font-weight="bold" filter="url(#glow)">08</text>
+        <text x="170" y="56" fill="#ffffff" font-size="34" font-weight="bold">PICK A PATH &amp; CERTIFY</text>
+        <text x="170" y="100" fill="#c9d9e8" font-size="25">Choose SOC, pentesting, AppSec, forensics or GRC. Certs help but</text>
+        <text x="170" y="136" fill="#c9d9e8" font-size="25">are optional; write-ups and projects prove real skill.</text>
+        <text x="170" y="186" fill="#cfa8ff" font-size="24" font-weight="bold" letter-spacing="1">PRACTICE ▸ CompTIA Security+ is a common first cert</text>
+      </g>
+      <text x="64" y="4008" fill="#8ffaff" font-size="32" letter-spacing="4" font-weight="bold">04 / YOUR FIRST 30 DAYS</text>
+      <text x="1536" y="4008" text-anchor="end" fill="#a9bdd2" font-size="20" letter-spacing="2">ONE HOUR A DAY IS ENOUGH</text>
+      <g transform="translate(64 4042)">
+        <path d="M0 0H726V250H0Z" fill="url(#glass)" stroke="#00eaff" stroke-opacity=".8" stroke-width="2"/>
+        <path d="M0 0H726" stroke="#00eaff" stroke-width="5" filter="url(#glow)"/>
+        <text x="28" y="46" fill="#00eaff" font-size="22" letter-spacing="3" font-weight="bold">WEEK 1</text>
+        <text x="28" y="90" fill="#ffffff" font-size="34" font-weight="bold">SET UP</text>
+        <text x="28" y="140" fill="#c9d9e8" font-size="25">▸ Install VirtualBox + Kali/Ubuntu</text>
+        <text x="28" y="180" fill="#c9d9e8" font-size="25">▸ Finish Bandit levels 0-10</text>
+        <text x="28" y="220" fill="#c9d9e8" font-size="25">▸ Learn cd, ls, cat, chmod, grep</text>
+      </g>
+      <g transform="translate(810 4042)">
+        <path d="M0 0H726V250H0Z" fill="url(#glass)" stroke="#a855f7" stroke-opacity=".8" stroke-width="2"/>
+        <path d="M0 0H726" stroke="#a855f7" stroke-width="5" filter="url(#glow)"/>
+        <text x="28" y="46" fill="#cfa8ff" font-size="22" letter-spacing="3" font-weight="bold">WEEK 2</text>
+        <text x="28" y="90" fill="#ffffff" font-size="34" font-weight="bold">NETWORKS</text>
+        <text x="28" y="140" fill="#c9d9e8" font-size="25">▸ Study IP, DNS, HTTP and ports</text>
+        <text x="28" y="180" fill="#c9d9e8" font-size="25">▸ Capture traffic in Wireshark</text>
+        <text x="28" y="220" fill="#c9d9e8" font-size="25">▸ Use ping, traceroute and curl</text>
+      </g>
+      <g transform="translate(64 4312)">
+        <path d="M0 0H726V250H0Z" fill="url(#glass)" stroke="#a855f7" stroke-opacity=".8" stroke-width="2"/>
+        <path d="M0 0H726" stroke="#a855f7" stroke-width="5" filter="url(#glow)"/>
+        <text x="28" y="46" fill="#cfa8ff" font-size="22" letter-spacing="3" font-weight="bold">WEEK 3</text>
+        <text x="28" y="90" fill="#ffffff" font-size="34" font-weight="bold">CODE &amp; WEB</text>
+        <text x="28" y="140" fill="#c9d9e8" font-size="25">▸ Python: files, loops, requests</text>
+        <text x="28" y="180" fill="#c9d9e8" font-size="25">▸ Break DVWA or Juice Shop in lab</text>
+        <text x="28" y="220" fill="#c9d9e8" font-size="25">▸ Skim the OWASP Top 10</text>
+      </g>
+      <g transform="translate(810 4312)">
+        <path d="M0 0H726V250H0Z" fill="url(#glass)" stroke="#00eaff" stroke-opacity=".8" stroke-width="2"/>
+        <path d="M0 0H726" stroke="#00eaff" stroke-width="5" filter="url(#glow)"/>
+        <text x="28" y="46" fill="#00eaff" font-size="22" letter-spacing="3" font-weight="bold">WEEK 4</text>
+        <text x="28" y="90" fill="#ffffff" font-size="34" font-weight="bold">FIRST CTF</text>
+        <text x="28" y="140" fill="#c9d9e8" font-size="25">▸ Play picoCTF beginner puzzles</text>
+        <text x="28" y="180" fill="#c9d9e8" font-size="25">▸ Write up your first solve</text>
+        <text x="28" y="220" fill="#c9d9e8" font-size="25">▸ Join a CTF team or Discord</text>
+      </g>
+      <text x="64" y="4632" fill="#8ffaff" font-size="32" letter-spacing="4" font-weight="bold">05 / STARTER TOOLKIT</text>
+      <text x="1536" y="4632" text-anchor="end" fill="#a9bdd2" font-size="20" letter-spacing="2">ALL FREE TO START</text>
+      <rect x="64" y="4666" width="1472" height="440" rx="8" fill="#07111f" stroke="#2f5f80" stroke-width="2"/>
+      <path d="M64 4776H1536M64 4886H1536M64 4996H1536M554 4666V5106M1045 4666V5106" stroke="#244b66"/>
+      <text x="309" y="4714" fill="#ffffff" font-size="30" font-weight="bold" text-anchor="middle">WIRESHARK</text><text x="309" y="4752" fill="#b5cadd" font-size="23" text-anchor="middle">see network packets</text>
+      <text x="800" y="4714" fill="#ffffff" font-size="30" font-weight="bold" text-anchor="middle">NMAP</text><text x="800" y="4752" fill="#b5cadd" font-size="23" text-anchor="middle">discover hosts and ports</text>
+      <text x="1291" y="4714" fill="#ffffff" font-size="30" font-weight="bold" text-anchor="middle">BURP SUITE CE</text><text x="1291" y="4752" fill="#b5cadd" font-size="23" text-anchor="middle">inspect web requests</text>
+      <text x="309" y="4824" fill="#ffffff" font-size="30" font-weight="bold" text-anchor="middle">CYBERCHEF</text><text x="309" y="4862" fill="#b5cadd" font-size="23" text-anchor="middle">decode and convert data</text>
+      <text x="800" y="4824" fill="#ffffff" font-size="30" font-weight="bold" text-anchor="middle">VIRTUALBOX</text><text x="800" y="4862" fill="#b5cadd" font-size="23" text-anchor="middle">run safe lab VMs</text>
+      <text x="1291" y="4824" fill="#ffffff" font-size="30" font-weight="bold" text-anchor="middle">KALI LINUX</text><text x="1291" y="4862" fill="#b5cadd" font-size="23" text-anchor="middle">security-focused OS</text>
+      <text x="309" y="4934" fill="#ffffff" font-size="30" font-weight="bold" text-anchor="middle">DVWA</text><text x="309" y="4972" fill="#b5cadd" font-size="23" text-anchor="middle">practice web flaws</text>
+      <text x="800" y="4934" fill="#ffffff" font-size="30" font-weight="bold" text-anchor="middle">JUICE SHOP</text><text x="800" y="4972" fill="#b5cadd" font-size="23" text-anchor="middle">OWASP vulnerable app</text>
+      <text x="1291" y="4934" fill="#ffffff" font-size="30" font-weight="bold" text-anchor="middle">PYTHON</text><text x="1291" y="4972" fill="#b5cadd" font-size="23" text-anchor="middle">automate everything</text>
+      <text x="309" y="5044" fill="#ffffff" font-size="30" font-weight="bold" text-anchor="middle">BASH</text><text x="309" y="5082" fill="#b5cadd" font-size="23" text-anchor="middle">glue for the shell</text>
+      <text x="800" y="5044" fill="#ffffff" font-size="30" font-weight="bold" text-anchor="middle">GIT / GITHUB</text><text x="800" y="5082" fill="#b5cadd" font-size="23" text-anchor="middle">keep notes and code</text>
+      <text x="1291" y="5044" fill="#ffffff" font-size="30" font-weight="bold" text-anchor="middle">OBSIDIAN</text><text x="1291" y="5082" fill="#b5cadd" font-size="23" text-anchor="middle">document every lab</text>
+      <text x="64" y="5156" fill="#ff9ee9" font-size="23" font-weight="bold" letter-spacing="1">WARNING: ONLY TEST SYSTEMS YOU OWN OR HAVE WRITTEN PERMISSION TO TEST.</text>
+      <text x="64" y="5236" fill="#8ffaff" font-size="32" letter-spacing="4" font-weight="bold">06 / CAREER PATHS</text>
+      <text x="1536" y="5236" text-anchor="end" fill="#a9bdd2" font-size="20" letter-spacing="2">PICK ONE AFTER STEP 05</text>
+      <g transform="translate(64 5270)">
+        <path d="M0 0H1472V160H0Z" fill="url(#glass)" stroke="#00eaff" stroke-opacity=".8" stroke-width="2"/>
+        <path d="M0 0H8V160H0Z" fill="#00eaff"/>
+        <text x="34" y="48" fill="#ffffff" font-size="31" font-weight="bold">SOC ANALYST (BLUE TEAM)</text>
+        <text x="34" y="92" fill="#c9d9e8" font-size="25"><tspan fill="#a9c0d6" font-weight="bold">DOES ▸ </tspan>Monitor alerts, investigate and respond</text>
+        <text x="34" y="132" fill="#d6bfff" font-size="25"><tspan fill="#a9c0d6" font-weight="bold">START ▸ </tspan>Security+ / TryHackMe SOC Level 1</text>
+      </g>
+      <g transform="translate(64 5446)">
+        <path d="M0 0H1472V160H0Z" fill="url(#glass)" stroke="#a855f7" stroke-opacity=".8" stroke-width="2"/>
+        <path d="M0 0H8V160H0Z" fill="#a855f7"/>
+        <text x="34" y="48" fill="#ffffff" font-size="31" font-weight="bold">PENETRATION TESTER (RED)</text>
+        <text x="34" y="92" fill="#c9d9e8" font-size="25"><tspan fill="#a9c0d6" font-weight="bold">DOES ▸ </tspan>Test systems with permission, report findings</text>
+        <text x="34" y="132" fill="#d6bfff" font-size="25"><tspan fill="#a9c0d6" font-weight="bold">START ▸ </tspan>eJPT / PNPT / HTB Academy</text>
+      </g>
+      <g transform="translate(64 5622)">
+        <path d="M0 0H1472V160H0Z" fill="url(#glass)" stroke="#00eaff" stroke-opacity=".8" stroke-width="2"/>
+        <path d="M0 0H8V160H0Z" fill="#00eaff"/>
+        <text x="34" y="48" fill="#ffffff" font-size="31" font-weight="bold">APPLICATION SECURITY</text>
+        <text x="34" y="92" fill="#c9d9e8" font-size="25"><tspan fill="#a9c0d6" font-weight="bold">DOES ▸ </tspan>Find and fix flaws in web and mobile apps</text>
+        <text x="34" y="132" fill="#d6bfff" font-size="25"><tspan fill="#a9c0d6" font-weight="bold">START ▸ </tspan>PortSwigger Academy / OWASP Top 10</text>
+      </g>
+      <g transform="translate(64 5798)">
+        <path d="M0 0H1472V160H0Z" fill="url(#glass)" stroke="#a855f7" stroke-opacity=".8" stroke-width="2"/>
+        <path d="M0 0H8V160H0Z" fill="#a855f7"/>
+        <text x="34" y="48" fill="#ffffff" font-size="31" font-weight="bold">FORENSICS &amp; INCIDENT RESPONSE</text>
+        <text x="34" y="92" fill="#c9d9e8" font-size="25"><tspan fill="#a9c0d6" font-weight="bold">DOES ▸ </tspan>Investigate breaches, preserve evidence</text>
+        <text x="34" y="132" fill="#d6bfff" font-size="25"><tspan fill="#a9c0d6" font-weight="bold">START ▸ </tspan>Autopsy / Volatility / CyberDefenders</text>
+      </g>
+      <g transform="translate(64 5974)">
+        <path d="M0 0H1472V160H0Z" fill="url(#glass)" stroke="#00eaff" stroke-opacity=".8" stroke-width="2"/>
+        <path d="M0 0H8V160H0Z" fill="#00eaff"/>
+        <text x="34" y="48" fill="#ffffff" font-size="31" font-weight="bold">GRC / RISK &amp; COMPLIANCE</text>
+        <text x="34" y="92" fill="#c9d9e8" font-size="25"><tspan fill="#a9c0d6" font-weight="bold">DOES ▸ </tspan>Policies, risk, audits (ISO 27001, NIST)</text>
+        <text x="34" y="132" fill="#d6bfff" font-size="25"><tspan fill="#a9c0d6" font-weight="bold">START ▸ </tspan>Security+ / ISO 27001 Foundation</text>
+      </g>
+      <path d="M64 6194H1536" stroke="#00eaff" stroke-opacity=".6" stroke-width="2"/>
+      <text x="64" y="6248" fill="#8ffaff" font-size="32" letter-spacing="3" font-weight="bold">07 / KEEP GOING</text>
+      <text x="64" y="6302" fill="#ffffff" font-size="28">Read write-ups, then rebuild them yourself.</text>
+      <text x="64" y="6342" fill="#ffffff" font-size="28">Ask questions and share what you learn.</text>
+      <text x="64" y="6394" fill="#c9d9e8" font-size="24">For education only. Stay legal, stay ethical,</text>
+      <text x="64" y="6428" fill="#c9d9e8" font-size="24">and never test systems without permission.</text>
+      <text x="800" y="6500" text-anchor="middle" fill="#b5cadd" font-size="22" letter-spacing="3">LEARN · PRACTICE · DEFEND · REPEAT</text>
+    </g>
+
+
+    <!-- Animated scan beam and signal pulses -->
+    <g opacity=".36">
+      <rect x="0" y="0" width="1600" height="7" fill="url(#cyan)" filter="url(#glow)">
+        <animate attributeName="y" values="-10;6570;-10" dur="22s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <g>
+      <circle cx="1500" cy="146" r="5" fill="#00eaff" filter="url(#glow)">
+        <animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1475" cy="146" r="3" fill="#ff4ccf" filter="url(#glow)">
+        <animate attributeName="opacity" values="1;.15;1" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <rect width="1600" height="6570" fill="url(#scanlines)" opacity=".45"/>
+    <rect x="2" y="2" width="1596" height="6566" rx="26" fill="none" stroke="#48efff" stroke-opacity=".72" stroke-width="3"/>
+    <path d="M28 80V28H80M1520 28h52v52M28 6490v52h52M1520 6542h52v-52" fill="none" stroke="#c05cff" stroke-width="4"/>
+  </g>
+</svg>
