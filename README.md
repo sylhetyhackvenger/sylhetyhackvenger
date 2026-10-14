@@ -60,17 +60,6 @@ I investigate how systems behave, how digital exposure occurs, and how security 
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylhetyhackvenger&layout=compact&hide_border=true&bg_color=050812&title_color=00EAFF&text_color=DCEBFA" alt="Public repository language statistics"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sylhetyhackvenger&bg_color=050812&color=DCEBFA&line=00EAFF&point=A855F7&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
-
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01ST-CTF_BD_REGION-00D9FF?style=for-the-badge&label=GRAY_HAT_COMPETITION" alt="First place Gray Hat Hacker Competition, CTF BD Region"/>
-<img src="https://img.shields.io/badge/01ST-SYLHET-7C3AED?style=for-the-badge&label=PYTHON_PROGRAMMING" alt="First place Python programming contest, Sylhet"/>
-<img src="https://img.shields.io/badge/03RD-SYLHET-00B894?style=for-the-badge&label=C_PROGRAMMING" alt="Third place C programming contest, Sylhet"/>
-
-</div>
 
 
 <div align="center">
