@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=700&color=00Eaff&center=true&vCenter=true&width=900&lines=%5B+INITIALIZING+SECURE+LAB+%5D;THREAT+SURFACE+MAPPING...;SIGNAL+ANALYSIS+IN+PROGRESS...;DEFENSIVE+SYSTEMS+ONLINE;THE-ERROR808+%2F+READY" alt="Animated terminal status"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=700&color=FF0000&center=true&vCenter=true&width=900&lines=%5B+INITIALIZING+SECURE+LAB+%5D;THREAT+SURFACE+MAPPING...;SIGNAL+ANALYSIS+IN+PROGRESS...;DEFENSIVE+SYSTEMS+ONLINE;THE-ERROR808+%2F+READY" alt="Animated terminal status"/>
 
 </div>
 
@@ -79,10 +79,8 @@ I investigate how systems behave, how digital exposure occurs, and how security 
        alt="THE-ERROR808 Security Research Directives"/>
 </div>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=900&color=FF0000&center=true&vCenter=true&width=800&lines=SYLHETYHACKVENGER;THE-ERROR808;DEFEND.+RESEARCH.+EXPLORE.+REPEAT." alt="Animated cyber-ghost sign-off"/>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=900&color=00EAFF&center=true&vCenter=true&width=800&lines=SYLHETYHACKVENGER;THE-ERROR808;DEFEND.+RESEARCH.+EXPLORE.+REPEAT." alt="Animated cyber-ghost sign-off"/>
 
-<sub>CYBERSECURITY IS A DISCIPLINE. CURIOSITY IS THE ENGINE.</sub>
 
-</div>
