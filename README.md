@@ -16,6 +16,9 @@
 </div>
 
 ---
+ <div align="center">
+  <img src="./readme.svg" width="100%" alt="THE-ERROR808 Cyberpunk Security Interface" />
+</div> 
 
 <div align="center">
 
