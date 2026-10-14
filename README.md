@@ -26,6 +26,14 @@
 
 </div>
 
+<div align="center">
+  <img
+    src="./activity.svg"
+    width="100%"
+    alt="THE-ERROR808 Cyber Operations Animation"
+  />
+</div>
+
 ## `01 / OPERATOR IDENTIFICATION`
 
 ```text
