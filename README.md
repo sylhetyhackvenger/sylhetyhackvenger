@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="./identity.svg"
+  <img src="./assets/identity.svg"
        width="100%"
        alt="Intro"/>
 </div>
 
 
 ---
- <div align="center">
-  <img src="./readme.svg" width="100%" alt="THE-ERROR808 Cyberpunk Security Interface" />
+
+<div align="center">
+  <img src="./assets/readme.svg" width="100%" alt="THE-ERROR808 Cyberpunk Security Interface" />
 </div> 
 
 <div align="center">
@@ -18,7 +19,7 @@
 
 <div align="center">
   <img
-    src="./activity.svg"
+    src="./assets/activity.svg"
     width="100%"
     alt="THE-ERROR808 Cyber Operations Animation"
   />
@@ -56,6 +57,7 @@ I investigate how systems behave, how digital exposure occurs, and how security 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=sylhetyhackvenger&show_icons=true&hide_border=true&bg_color=050812&title_color=00Eaff&icon_color=A855F7&text_color=DCEBFA&rank_icon=github" alt="GitHub account statistics"/>
+
 <!-- GitHub Contribution Streak -->
 <img
   height="180"
@@ -66,15 +68,13 @@ I investigate how systems behave, how digital exposure occurs, and how security 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylhetyhackvenger&layout=compact&hide_border=true&bg_color=050812&title_color=00EAFF&text_color=DCEBFA" alt="Public repository language statistics"/>
 
 
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution graph snake"/>
 
 
-
 <div align="center">
-  <img src="./directive.svg"
+  <img src="./assets/directive.svg"
        width="100%"
        alt="THE-ERROR808 Security Research Directives"/>
 </div>
@@ -108,4 +108,3 @@ I investigate how systems behave, how digital exposure occurs, and how security 
 </sub>
 
 </div>
-
