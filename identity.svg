@@ -468,7 +468,7 @@
 <text x="320.0" y="6286" font-size="15" fill="#ff2a55" fill-opacity="0.9" text-anchor="middle" letter-spacing="2">— THE-ERROR808</text>
 <rect x="20" y="6340" width="600" height="2" fill="#00f0ff" fill-opacity="0.3"/>
 <polygon points="252.0,6324 388.0,6324 398.0,6340 388.0,6356 252.0,6356 242.0,6340" fill="#010308" stroke="#00f0ff" stroke-opacity="0.5" stroke-width="1.5"/>
-<text x="320.0" y="6345" font-size="15" font-weight="bold" fill="#00f0ff" text-anchor="middle" letter-spacing="2.5">Lets Bite Together</text>
+<text x="320.0" y="6345" font-size="15" font-weight="bold" fill="#00f0ff" text-anchor="middle" letter-spacing="2.5"></text>
 <polygon points="320.0,6394.0 351.2,6412.0 351.2,6448.0 320.0,6466.0 288.8,6448.0 288.8,6412.0" fill="#02080f" stroke="#00f0ff" stroke-width="3.5" filter="url(#soft)"/>
 <polygon points="320.0,6385.0 359.0,6407.5 359.0,6452.5 320.0,6475.0 281.0,6452.5 281.0,6407.5" fill="none" stroke="#00f0ff" stroke-opacity="0.5" stroke-width="1.5"><animateTransform attributeName="transform" type="rotate" from="0 320.0 6430" to="360 320.0 6430" dur="14s" repeatCount="indefinite"/></polygon>
 <text x="320.0" y="6420" font-size="11" fill="#00f0ff" text-anchor="middle" letter-spacing="1">EST.</text>
