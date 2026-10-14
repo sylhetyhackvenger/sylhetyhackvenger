@@ -1,10 +1,5 @@
 
 
-<img src="https://komarev.com/ghpvc/?username=sylhetyhackvenger&style=for-the-badge&color=00eaff&label=SIGNALS+OBSERVED" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/sylhetyhackvenger?style=for-the-badge&color=7c3aed&label=OPERATORS+FOLLOWING" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/last-commit/sylhetyhackvenger/sylhetyhackvenger?style=for-the-badge&color=00b894&label=LAST+DEPLOY" alt="Last repository commit"/>
-
-</div>
 
 ---
  <div align="center">
