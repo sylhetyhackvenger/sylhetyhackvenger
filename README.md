@@ -38,10 +38,6 @@
 I investigate how systems behave, how digital exposure occurs, and how security can be improved. My workbench is built around practical labs, network auditing, open-source intelligence, CTF challenges, and automation.
 
 
-
-
-## `04 / TECH ARSENAL`
-
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/LINUX-0A0F1C?style=for-the-badge&logo=linux&logoColor=FCC624)
@@ -66,7 +62,6 @@ I investigate how systems behave, how digital exposure occurs, and how security 
 
 </div>
 
-## `05 / GITHUB TELEMETRY`
 
 <div align="center">
 
@@ -77,11 +72,7 @@ I investigate how systems behave, how digital exposure occurs, and how security 
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sylhetyhackvenger&bg_color=050812&color=DCEBFA&line=00EAFF&point=A855F7&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
 
-</div>
 
-<sub>These panels depend on third-party services and may load slowly, hit rate limits, or be temporarily unavailable. Language charts represent public repository data and are not a definitive measure of expertise.</sub>
-
-## `06 / COMPETITION RECORD`
 
 <div align="center">
 
@@ -91,7 +82,6 @@ I investigate how systems behave, how digital exposure occurs, and how security 
 
 </div>
 
-## `07 / CONTRIBUTION MATRIX`
 
 <div align="center">
 
@@ -99,20 +89,7 @@ I investigate how systems behave, how digital exposure occurs, and how security 
 
 </div>
 
-## `08 / OPEN CHANNELS`
 
-<div align="center">
-
-<a href="https://github.com/sylhetyhackvenger">
-  <img src="https://img.shields.io/badge/GITHUB-ACCESS_PROFILE-0A0F1C?style=for-the-badge&logo=github&logoColor=00EAFF" alt="GitHub profile"/>
-</a>
-<a href="https://instagram.com/sylhetyhackvenger_">
-  <img src="https://img.shields.io/badge/INSTAGRAM-ESTABLISH_LINK-0A0F1C?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram profile"/>
-</a>
-
-</div>
-
-## `09 / FINAL DIRECTIVE`
 
 ```diff
 + AUTHORIZATION FIRST
